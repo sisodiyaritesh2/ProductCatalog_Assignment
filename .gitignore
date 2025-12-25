@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Logs
+*.log
+
+# Publish output
+publish/
+
+# NuGet
+*.nupkg
+packages/
+
+# Temp files
+*.tmp
+*.temp
